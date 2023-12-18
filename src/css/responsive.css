@@ -1,0 +1,15 @@
+@media (max-width: 425px) {
+    .app {
+        height: 50vh;
+    }
+
+    .container {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+
+    .input-url,
+    .button {
+        width: 100%;
+    }
+}
