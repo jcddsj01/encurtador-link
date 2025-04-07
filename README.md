@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="./src/images/encurtador-link.png" width="100%" />
+  <img src="./src/images/encurtador-de-link.png" width="100%" />
 </div>
 
 ## Projeto - Encurtador de Link
